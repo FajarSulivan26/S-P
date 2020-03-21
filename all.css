@@ -27,6 +27,9 @@ legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}t
 html,body{font-family:Verdana,sans-serif;font-size:15px;line-height:1.5}html{overflow-x:hidden}
 h1{font-size:36px}h2{font-size:30px}h3{font-size:24px}h4{font-size:20px}h5{font-size:18px}h6{font-size:16px}.sp-serif{font-family:serif}
 h1,h2,h3,h4,h5,h6{font-family:"Segoe UI",Arial,sans-serif;font-weight:400;margin:10px 0}.sp-wide{letter-spacing:4px}
+hr.sp-hr{padding:0;border:none;height:2px;background-image:-webkit-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-moz-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-ms-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));background-image:-o-linear-gradient(left,rgba(0,0,0,0),rgba(0,0,0,0.75),rgba(0,0,0,0));color:#333;text-align:center}hr.sp-hr:after{content:" ";display:inline-block;position:relative;top:-1em;font-size:1.5em;padding:19px 1.75em}
+.sp-copas-off{user-select:text;-webkit-user-select:text;-khtml-user-select:text;-moz-user-select:text;-ms-user-select:text}
+.sp-copas-on{user-select:none;-moz-user-select:none;-ms-user-select:none;-khtml-user-select:none;-webkit-user-select:none}
 .sp-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .sp-table,.sp-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.sp-table-all{border:1px solid #ccc}
 .sp-bordered tr,.sp-table-all tr{border-bottom:1px solid #ddd}.sp-striped tbody tr:nth-child(even){background-color:#f1f1f1}
