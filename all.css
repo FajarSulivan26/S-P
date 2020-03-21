@@ -40,7 +40,7 @@ hr{border:0;border-top:1px solid #eee;margin:20px 0}
  -moz-user-select:none;
  -ms-user-select:none;
  -khtml-user-select:none;
- -webkit-user-select:none
+ -webkit-user-select:none;
 }
 .sp-image{max-width:100%;height:auto}img{vertical-align:middle}a{color:inherit}
 .sp-table,.sp-table-all{border-collapse:collapse;border-spacing:0;width:100%;display:table}.sp-table-all{border:1px solid #ccc}
