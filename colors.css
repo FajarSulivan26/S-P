@@ -57,8 +57,8 @@
 .sp-text-dark-grey,.sp-hover-text-dark-grey:hover,.sp-text-dark-gray,.sp-hover-text-dark-gray:hover{color:#3a3a3a!important}
 .sp-border-amber,.sp-hover-border-amber:hover{border-color:#ffc107!important}
 .sp-border-aqua,.sp-hover-border-aqua:hover{border-color:#00ffff!important}
-.sp-border-blue{border-color:#2196F3!important}
-.sp-hover-border-blue:hover{border-color:#2196F3!important}
+.sp-border-blue{border-color:#2196F3;}
+.sp-hover-border-blue:hover{border-color:#2196F3;}
 .sp-border-light-blue,.sp-hover-border-light-blue:hover{border-color:#87CEEB!important}
 .sp-border-brown,.sp-hover-border-brown:hover{border-color:#795548!important}
 .sp-border-cyan,.sp-hover-border-cyan:hover{border-color:#00bcd4!important}
